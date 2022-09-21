@@ -1,4 +1,4 @@
-# 5.-ML-UNEMPLOYMENT
+# 5.-ML-UNEMPLOYMENT-R
 
 Just testing some ML algorithms with this dataset with Spanish Unemployment.
 Trying to figure out which algorithm is better predicting the month of the year by creating new variables that check the variation of unemployment.
